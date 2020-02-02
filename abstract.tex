@@ -1,0 +1,6 @@
+This project is an implementation of opencv in real world. It uses, raspberrypi for easy replication and portability. The module, works
+by capturing images of objects, temporarily storing them on disk and processing them to see if image of a face exists in
+the stored image. After detection stored images is immediately deleted or over written to conserve space. 
+
+From opencv we use feature extraction a feature extraction method, which subtracts pixels of a group(identified by the algorithm) from
+the original image, to form a pattern object. This pattern object is then subjected to neural network to check if it fits the pattern of a face.
