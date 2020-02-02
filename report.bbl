@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}
+
+\bibitem{opencv}
+W.~{Sriratana}, S.~{Mukma}, N.~{Tammarugwattana}, and K.~{Sirisantisamrid},
+  ``Application of the opencv-python for personal identifier statement,'' in
+  {\em 2018 International Conference on Engineering, Applied Sciences, and
+  Technology (ICEAST)}, pp.~1--4, July 2018.
+
+\bibitem{violajones}
+P.~Viola and M.~Jones, ``Rapid object detection using a boosted cascade of
+  simple features,'' in {\em Proceedings of the 2001 IEEE computer society
+  conference on computer vision and pattern recognition. CVPR 2001}, vol.~1,
+  pp.~I--I, IEEE, 2001.
+
+\end{thebibliography}
