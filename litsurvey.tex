@@ -1,6 +1,6 @@
 \section{Litratrue Survey}
 In the paper \cite{opencv} W.Sriratana et al. presents a face identification system. It works by capturing image in real time, converting that image to integral image,
-and running FAARfunction on it. The FAAR function searches for standard facial features like dark regions around eyes, light regions at the nose. The output of Faar function
-is a set of FAAR features. This output is then input to a neural network, which identifies the face.
+and running Feature extraction Function on it. The Feature extraction function searches for standard facial features like dark regions around eyes, light regions at the nose. The output of this function
+is a set of patterns, which may or may not predict if given image has a face. This output is then input to a neural network, which is trained to identify if there is a face. Each feature vector is given its weight according to its aility to predict a feature
 
 \input{violajones}
