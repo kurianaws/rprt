@@ -1,7 +1,7 @@
 \contentsline {section}{\numberline {0.1}Introduction}{v}
 \contentsline {section}{\numberline {0.2}Litratrue Survey}{vi}
 \contentsline {section}{\numberline {0.3}Block Diagram}{vi}
-\contentsline {subsection}{\numberline {0.3.1}Raspberry Pi}{vii}
+\contentsline {subsection}{\numberline {0.3.1}Raspberry Pi}{vi}
 \contentsline {subsection}{\numberline {0.3.2}Camera}{vii}
 \contentsline {subsection}{\numberline {0.3.3}Neural Network}{vii}
 \contentsline {section}{\numberline {0.4}Schematic}{viii}
