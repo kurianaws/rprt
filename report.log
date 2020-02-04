@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2019.9.9)  4 FEB 2020 11:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2019.9.9)  4 FEB 2020 13:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -313,14 +313,14 @@ Overfull \hbox (20.48184pt too wide) in paragraph at lines 20--20
 [] 
  []
 
-) [7 <./block.png>] (./design.tex
-<project.png, id=44, 2933.96124pt x 2077.7625pt>
+) [7 <./block.png>] [8] (./design.tex
+<project.png, id=47, 2933.96124pt x 2077.7625pt>
 File: project.png Graphic file (type png)
  <use project.png>
 Package pdftex.def Info: project.png used on input line 10.
 (pdftex.def)             Requested size: 440.0752pt x 311.65092pt.
-)
-(./conclusion.tex) (./report.bbl [8] [9 <./project.png>]) [10
+) [9]
+(./conclusion.tex) (./report.bbl [10 <./project.png>]) [11
 
 ] (./report.aux) ) 
 Here is how much of TeX's memory you used:
@@ -337,10 +337,10 @@ s/cm/cmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmti12.pfb>
-Output written on report.pdf (13 pages, 503891 bytes).
+Output written on report.pdf (14 pages, 504375 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 77 PDF objects out of 1000 (max. 8388607)
+ 49 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
