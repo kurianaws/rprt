@@ -1,9 +1,11 @@
 \contentsline {section}{\numberline {0.1}Introduction}{v}
-\contentsline {section}{\numberline {0.2}Litratrue Survey}{vi}
-\contentsline {section}{\numberline {0.3}Block Diagram}{vi}
-\contentsline {subsection}{\numberline {0.3.1}Raspberry Pi}{vi}
-\contentsline {subsection}{\numberline {0.3.2}Camera}{vii}
-\contentsline {subsection}{\numberline {0.3.3}Neural Network}{vii}
-\contentsline {subsubsection}{Integral Image}{vii}
-\contentsline {section}{\numberline {0.4}Schematic}{ix}
-\contentsline {section}{\numberline {0.5}Conclusion}{x}
+\contentsline {section}{\numberline {0.2}System Requirements}{vi}
+\contentsline {subsection}{\numberline {0.2.1}Raspberry PI}{vi}
+\contentsline {subsection}{\numberline {0.2.2}Camera}{vi}
+\contentsline {section}{\numberline {0.3}Litratrue Survey}{vii}
+\contentsline {section}{\numberline {0.4}Block Diagram}{vii}
+\contentsline {subsection}{\numberline {0.4.1}Raspberry Pi}{viii}
+\contentsline {subsection}{\numberline {0.4.2}Image Processing}{viii}
+\contentsline {subsubsection}{Integral Image}{viii}
+\contentsline {section}{\numberline {0.5}Schematic}{ix}
+\contentsline {section}{\numberline {0.6}Conclusion}{x}
