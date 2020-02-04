@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2019.9.9)  3 FEB 2020 13:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2019.9.9)  4 FEB 2020 10:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -262,7 +262,7 @@ e
 <logo.jpg, id=1, 180.675pt x 179.92218pt>
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 39.
+Package pdftex.def Info: logo.jpg used on input line 40.
 (pdftex.def)             Requested size: 90.33727pt x 89.96086pt.
  [1
 
@@ -271,10 +271,10 @@ jpg>]
 (./declaration.tex) [2]
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 63.
+Package pdftex.def Info: logo.jpg used on input line 64.
 (pdftex.def)             Requested size: 90.33727pt x 89.96086pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--72
+Underfull \hbox (badness 10000) in paragraph at lines 70--73
 
  []
 
@@ -300,55 +300,41 @@ Overfull \hbox (38.86624pt too wide) in paragraph at lines 7--8
  [][] 
  []
 
-
-LaTeX Warning: Citation `opencv' on page v undefined on input line 13.
-
-) (./litsurvey.tex [5 <./raspberrypi.jpg>]
-
-LaTeX Warning: Citation `opencv' on page vi undefined on input line 2.
-
-(./violajones.tex
-
-LaTeX Warning: Citation `violajones' on page vi undefined on input line 1.
-
-)) (./block.tex <block.png, id=33, 462.528pt x 260.172pt>
+) (./litsurvey.tex [5 <./raspberrypi.jpg>] (./violajones.tex)) (./block.tex
+<block.png, id=33, 462.528pt x 260.172pt>
 File: block.png Graphic file (type png)
  <use block.png>
 Package pdftex.def Info: block.png used on input line 4.
 (pdftex.def)             Requested size: 323.76738pt x 182.11914pt.
-
-[6]) [7 <./block.png>] (./design.tex
-<project.png, id=42, 2933.96124pt x 2077.7625pt>
+ [6]) [7 <./block.png>] (./design.tex
+Missing character: There is no É in font cmr12!
+Missing character: There is no ª in font cmr12!
+ <project.png, id=42, 2933.96124pt x 2077.7625pt>
 File: project.png Graphic file (type png)
- <use project.png>
-Package pdftex.def Info: project.png used on input line 4.
+
+<use project.png>
+Package pdftex.def Info: project.png used on input line 10.
 (pdftex.def)             Requested size: 440.0752pt x 311.65092pt.
-)
-(./report.bbl [8 <./project.png>]) [9
+) (./conclusion.tex) (./report.bbl [8] [9 <./project.png>])
+[10
 
-] (./report.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+] (./report.aux) ) 
 Here is how much of TeX's memory you used:
- 2784 strings out of 493089
- 37657 string characters out of 6134843
- 107351 words of memory out of 5000000
- 6212 multiletter control sequences out of 15000+600000
+ 2788 strings out of 493089
+ 37708 string characters out of 6134843
+ 107378 words of memory out of 5000000
+ 6213 multiletter control sequences out of 15000+600000
  10934 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,6n,43p,1011b,267s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
-/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on report.pdf (12 pages, 483730 bytes).
+ 37i,7n,43p,1011b,267s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmti12.pfb>
+Output written on report.pdf (13 pages, 485572 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
- 38 compressed objects within 1 object stream
+ 66 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
