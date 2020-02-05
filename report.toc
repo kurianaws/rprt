@@ -1,11 +1,16 @@
-\contentsline {section}{\numberline {0.1}Introduction}{v}
-\contentsline {section}{\numberline {0.2}System Requirements}{vi}
-\contentsline {subsection}{\numberline {0.2.1}Raspberry PI}{vi}
-\contentsline {subsection}{\numberline {0.2.2}Camera}{vi}
-\contentsline {section}{\numberline {0.3}Litratrue Survey}{vii}
-\contentsline {section}{\numberline {0.4}Block Diagram}{vii}
-\contentsline {subsection}{\numberline {0.4.1}Raspberry Pi}{viii}
-\contentsline {subsection}{\numberline {0.4.2}Image Processing}{viii}
-\contentsline {subsubsection}{Integral Image}{viii}
-\contentsline {section}{\numberline {0.5}Schematic}{ix}
-\contentsline {section}{\numberline {0.6}Conclusion}{x}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Raspberry PI}{1}
+\contentsline {chapter}{\numberline {2}Requirement}{3}
+\contentsline {section}{\numberline {2.1}Raspberry PI}{3}
+\contentsline {section}{\numberline {2.2}Camera}{4}
+\contentsline {chapter}{\numberline {3}Literature Survey}{5}
+\contentsline {chapter}{\numberline {4}Block Diagram}{6}
+\contentsline {section}{\numberline {4.1}Raspberry PI}{6}
+\contentsline {section}{\numberline {4.2}Image Processing}{7}
+\contentsline {subsection}{\numberline {4.2.1}Neural Network}{7}
+\contentsline {subsection}{\numberline {4.2.2}Integral Image}{7}
+\contentsline {chapter}{\numberline {5}Tool Requirement}{9}
+\contentsline {section}{\numberline {5.1}Jupyter Notebook}{9}
+\contentsline {section}{\numberline {5.2}Open CV}{9}
+\contentsline {chapter}{\numberline {6}Schematic}{10}
+\contentsline {chapter}{\numberline {7}Conclusion}{11}

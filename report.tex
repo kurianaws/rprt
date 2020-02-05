@@ -16,15 +16,15 @@
 
 \thispagestyle{empty}
 \begin{center}
-{\Large{\textbf{\projectnameb{}}}}
+{\Large{ \textbf{ \projectnameb{}}}}
 \vspace{5mm}
-\\ \MakeUppercase{\reportTitle{} report}
+\\ \MakeUppercase{A \reportTitle{} report}
 \vspace{5mm}
 \\submitted by
-\\\stud{}
+\\ \textbf{\stud{}}
+\\{\textbf{Reg No:\roll{}}}
 \vspace{5mm}
 \\ \dept{} 
-\\{\textbf{Reg No:\roll{}}}
 \vspace{5mm}
 \\to
 \\the APJ Abdul Kalam Technological University
@@ -70,7 +70,7 @@
 This is to certify that the report entitled,\textbf{ \projectname{}} submitted by \textbf{\stud{}} to the \uni{} in the partial fulfillment of the requirements for the award of the Degree of \degree{} in \stream{}, \depts{} is a bonafide record of the project work carried out by her under our guidance and supervision. This report in any form has not been submitted to any other University or Institute for any purpose.
 \vspace{25mm}
  \\         
-\begin{flushright} Project Guide \end{flushright} 
+ \begin{flushright} (Mini Project Guide) \end{flushright} 
                                                                                      
 
 \newpage
@@ -84,7 +84,7 @@ This is to certify that the report entitled,\textbf{ \projectname{}} submitted b
 \textbf{ABSTRACT}
 \end{center}  
 
-	\input{abstract}
+\input{abstract}
 
 
 \tableofcontents
@@ -92,16 +92,25 @@ This is to certify that the report entitled,\textbf{ \projectname{}} submitted b
 \newpage
 
 %\pagestyle{fancy}
+\pagenumbering{arabic}
 
-%\rhead{Share\LaTeX}
-%\lhead{Guides and tutorials}
+\rhead{Share\LaTeX}
+\lhead{Guides and tutorials}
+\chapter{Introduction}
 \input{intro}
+\chapter{Requirement}
 \input{req}
+\chapter{Literature Survey}
 \input{litsurvey}
+\chapter{Block Diagram}
 \input{block}
+\chapter{Tool Requirement}
+\input{tools}
 \newpage
+\chapter{Schematic}
 \input{design}
 \newpage
+\chapter{Conclusion}
 \input{conclusion}
 
 \bibliography{ref} 
